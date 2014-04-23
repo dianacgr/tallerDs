@@ -12,7 +12,11 @@ public class TallerGit {
 
     /**
      * @param args the command line arguments
+     * 
+     * 
      */
+    
+    private int atributo1;
     public static void main(String[] args) {
         // TODO code application logic here
     }
